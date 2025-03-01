@@ -53,6 +53,9 @@ Tarrget Population: Eligible Canadian voters across the country.
 Sampling Frame: A comprehensive list of registered voters, supplemented by a national online panel representative of Canadian voters.
 Sampling Units: Individual voters.
 Sampling Strategy: We will use a stratified random sampling approach, ensuring representation across provinces, age groups, gender, and other relevant demographics. This strategy guarantees that each subgroup of the Canadian voting population is proportionally represented.
+
+
+
 ```
 
 Your 5-10 question survey:
@@ -92,9 +95,6 @@ How likely are you to vote in the upcoming federal election?
 ( ) Unsure
 ( ) Somewhat unlikely
 ( ) Very unlikely
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
 ```
 
 ## Part B - Survey Evaluation:
